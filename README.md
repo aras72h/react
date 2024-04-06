@@ -12,3 +12,21 @@ Main tools of React:
 - Props
 - State
 - Events
+
+# Install these
+
+1. NodeJS
+2. VSCode
+3. git
+4. React Developre Tools (browser extention)
+5. Postman
+
+You probably need to add the following line to `settings.json` for emmet to work in jsx.
+```json
+"emmet.includeLanguages": {
+  "javascript": "javascriptreact",
+}
+```
+
+Nice to have
+Bracket Pair Colorizer (vscode extension)
