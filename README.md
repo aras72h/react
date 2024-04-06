@@ -28,5 +28,5 @@ You probably need to add the following line to `settings.json` for emmet to work
 }
 ```
 
-Nice to have
+#### Nice to have
 Bracket Pair Colorizer (vscode extension)
